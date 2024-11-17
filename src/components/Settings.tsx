@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { Settings } from "../types/timer";
 import AccessTimeIcon from "@mui/icons-material/AccessTime";
 import NotificationsIcon from "@mui/icons-material/Notifications";

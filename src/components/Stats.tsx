@@ -1,4 +1,3 @@
-import React from "react";
 import { TimerStats } from "../types/timer";
 import ModeStandbyIcon from "@mui/icons-material/ModeStandby";
 import ElectricBoltIcon from "@mui/icons-material/ElectricBolt";
